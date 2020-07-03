@@ -2,7 +2,7 @@
 
 My custom settings, since having different shortcuts is annoying.
 
-
+Settings are stored in `%APPDATA\Code\User%`.
 
 ## Principles
 
