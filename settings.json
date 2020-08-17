@@ -19,5 +19,28 @@
         "**/.project": true,
         "**/.settings": true,
         "**/.factorypath": true
+    },
+    "fileHeaderComment.parameter":{
+        "*":{
+            "commentbegin": "// --------------------------------------------------------------------------------------------------------------------",
+            "commentprefix": "// ",
+            "commentend": "// --------------------------------------------------------------------------------------------------------------------",
+            "company": "Johannes Deml",
+            "name": "Johannes Deml",
+            "email": "public@deml.io"
+        }
+    },
+    "fileHeaderComment.template":{
+        "*":[
+            "${commentbegin}",
+            "${commentprefix}<copyright file=\"${filename}\">",
+            "${commentprefix}  Copyright (c) ${year} ${company}. All rights reserved.",
+            "${commentprefix}</copyright>",
+            "${commentprefix}<author>",
+            "${commentprefix}  ${name}",
+            "${commentprefix}  ${email}",
+            "${commentprefix}</author>",
+            "${commentend}"
+        ]
     }
 }
