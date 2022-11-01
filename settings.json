@@ -21,8 +21,13 @@
     "files.associations": {
         "*.asset": "yaml",
         "*.meta": "yaml",
+        "*.prefab": "yaml",
+        "*.unity": "yaml",
         "*.jsont": "json"
     },
+    "yaml.customTags": [
+        "tag:unity3d.com,2011:114 mapping"
+    ],
     "redhat.telemetry.enabled": false,
     "diffEditor.renderSideBySide": false,
     "cSpell.userWords": [
