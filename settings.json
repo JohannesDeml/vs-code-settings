@@ -26,12 +26,28 @@
         "*.jsont": "json"
     },
     "yaml.customTags": [
-        "tag:unity3d.com,2011:114 mapping"
+        "tag:unity3d.com,2011:1 mapping",
+        "tag:unity3d.com,2011:2 mapping",
+        "tag:unity3d.com,2011:3 mapping",
+        "tag:unity3d.com,2011:4 mapping",
+        "tag:unity3d.com,2011:20 mapping",
+        "tag:unity3d.com,2011:29 mapping",
+        "tag:unity3d.com,2011:104 mapping",
+        "tag:unity3d.com,2011:114 mapping",
+        "tag:unity3d.com,2011:157 mapping",
+        "tag:unity3d.com,2011:196 mapping",
+        "tag:unity3d.com,2011:222 mapping",
+        "tag:unity3d.com,2011:223 mapping",
+        "tag:unity3d.com,2011:224 mapping",
+        "tag:unity3d.com,2011:225 mapping",
+        "tag:unity3d.com,2011:1001 mapping",
     ],
     "redhat.telemetry.enabled": false,
     "diffEditor.renderSideBySide": false,
     "cSpell.userWords": [
-        "Behaviour"
+        "Behaviour",
+        "Deml",
+        "InnoGames"
     ]
     "fileHeaderComment.parameter":{
         "*":{
