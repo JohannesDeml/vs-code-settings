@@ -46,6 +46,7 @@
     "diffEditor.renderSideBySide": false,
     "cSpell.userWords": [
         "Behaviour",
+        "Decompilation",
         "Deml",
         "InnoGames"
     ]
@@ -71,5 +72,9 @@
             "${commentprefix}</author>",
             "${commentend}"
         ]
-    }
+    },
+    "window.zoomLevel": 1,
+    "omnisharp.enableDecompilationSupport": true,
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": true
 }
