@@ -2,7 +2,9 @@
 
 My custom settings, since having different shortcuts is annoying.
 
-Settings are stored in `%APPDATA%\Code\User`.
+Settings path:
+* Windows: `%APPDATA%\Code\User`
+* MacOS: `~/Library/Application Support/Code/User`
 
 ## Principles
 
