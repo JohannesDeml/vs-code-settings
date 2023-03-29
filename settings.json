@@ -7,6 +7,8 @@
     "files.trimTrailingWhitespace": true,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
+    "diffEditor.codeLens": true,
+    "git.mergeEditor": false,
     "typescript.preferences.importModuleSpecifier": "relative",
     "editor.suggestSelection": "first",
     "files.exclude": {
@@ -49,7 +51,7 @@
         "Decompilation",
         "Deml",
         "InnoGames"
-    ]
+    ],
     "fileHeaderComment.parameter":{
         "*":{
             "commentbegin": "// --------------------------------------------------------------------------------------------------------------------",
@@ -74,7 +76,40 @@
         ]
     },
     "window.zoomLevel": 1,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
     "omnisharp.enableDecompilationSupport": true,
     "editor.insertSpaces": false,
-    "editor.detectIndentation": true
+    "editor.detectIndentation": true,
+    "editor.tokenColorCustomizations": {
+        "[Default Dark+]": {
+            "textMateRules": [
+                {
+                    "scope": "comment.documentation",
+                    "settings": {
+                        "foreground": "#608B4E",
+                    }
+                },
+                {
+                    "scope": "comment.documentation.attribute",
+                    "settings": {
+                        "foreground": "#C8C8C8",
+                    }
+                },
+                {
+                    "scope": "comment.documentation.cdata",
+                    "settings": {
+                        "foreground": "#E9D585",
+                    }
+                },
+                {
+                    "scope": "comment.documentation.name",
+                    "settings": {
+                        "foreground": "#569CD6",
+                    }
+                },
+            ]
+        }
+    }
 }
