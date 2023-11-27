@@ -25,7 +25,9 @@
         "*.meta": "yaml",
         "*.prefab": "yaml",
         "*.unity": "yaml",
-        "*.jsont": "json"
+        "*.jsont": "json",
+        "*.uxml": "xml",
+        "*.uss": "css"
     },
     "yaml.customTags": [
         "tag:unity3d.com,2011:1 mapping",
@@ -34,6 +36,7 @@
         "tag:unity3d.com,2011:4 mapping",
         "tag:unity3d.com,2011:20 mapping",
         "tag:unity3d.com,2011:29 mapping",
+        "tag:unity3d.com,2011:95 mapping",
         "tag:unity3d.com,2011:104 mapping",
         "tag:unity3d.com,2011:114 mapping",
         "tag:unity3d.com,2011:157 mapping",
