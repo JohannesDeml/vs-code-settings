@@ -8,11 +8,12 @@ Settings path:
 
 ## Principles
 
-Make the shortcuts more browser like.
+Make the shortcuts more browser like and the good old shift shift from intellij.
 
 | Command          | Description          |
 | ---------------- | -------------------- |
 | Ctrl + T         | open file in tab     |
 | Ctrl + W         | close current tab    |
 | Ctrl + Shift + W | close all other tabs |
+| Shift + Shift    | open file in tab     |
 
