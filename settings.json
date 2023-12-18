@@ -47,6 +47,9 @@
         "tag:unity3d.com,2011:225 mapping",
         "tag:unity3d.com,2011:1001 mapping",
     ],
+    "[yaml]": {
+        "files.trimTrailingWhitespace": false
+    },
     "redhat.telemetry.enabled": false,
     "diffEditor.renderSideBySide": false,
     "cSpell.userWords": [
