@@ -1,6 +1,12 @@
 # Visual Studio Code Settings
 
-My custom settings, since having different shortcuts is annoying.
+My custom settings, this is mostly tailored for people who work with Unity and are used to the good ols `shift shift` shortcut from Intellij.
+
+Recommended extensions (especially when working with Unity):
+* [Unity for VS Code](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc)
+* [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+* [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) & [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) (Paid)
+* [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 
 Settings path:
 * Windows: `%APPDATA%\Code\User`
