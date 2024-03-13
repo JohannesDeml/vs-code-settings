@@ -25,6 +25,8 @@
         "*.meta": "yaml",
         "*.prefab": "yaml",
         "*.unity": "yaml",
+        "*.playable": "yaml",
+        "*.controller": "yaml",
         "*.jsont": "json",
         "*.uxml": "xml",
         "*.uss": "css"
@@ -50,8 +52,10 @@
     "[yaml]": {
         "files.trimTrailingWhitespace": false
     },
+    "[po]": {
+        "files.trimTrailingWhitespace": false
+    },
     "redhat.telemetry.enabled": false,
-    "diffEditor.renderSideBySide": false,
     "cSpell.userWords": [
         "Behaviour",
         "Decompilation",
@@ -117,5 +121,7 @@
                 },
             ]
         }
-    }
+    },
+    "diffEditor.renderSideBySide": false,
+    "diffEditor.hideUnchangedRegions.enabled": true
 }
