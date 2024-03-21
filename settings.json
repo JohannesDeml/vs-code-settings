@@ -29,7 +29,8 @@
         "*.controller": "yaml",
         "*.jsont": "json",
         "*.uxml": "xml",
-        "*.uss": "css"
+        "*.uss": "css",
+        "*.jslib": "javascript"
     },
     "yaml.customTags": [
         "tag:unity3d.com,2011:1 mapping",
