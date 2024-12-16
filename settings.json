@@ -1,6 +1,5 @@
 {
-    "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false,
+    "telemetry.telemetryLevel": "off",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "editor.mouseWheelZoom": true,
     "editor.renderWhitespace": "boundary",
@@ -444,5 +443,6 @@
         "*.wat": "default"
     },
     "github.copilot.editor.enableAutoCompletions": true,
-    "search.followSymlinks": false
+    "search.followSymlinks": false,
+    "workbench.colorTheme": "Default Dark Modern"
 }
