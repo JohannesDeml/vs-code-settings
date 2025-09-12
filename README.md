@@ -1,6 +1,7 @@
 # Visual Studio Code Settings
 
-My custom settings, this is mostly tailored for people who work with Unity and are used to the good ols `shift shift` shortcut from Intellij.
+My custom settings, this is mostly tailored for people who work with Unity and are used to the good old `shift shift` shortcut from Intellij.  
+The settings include proper file association and yaml unity mappings (when using the YAML extension linked below).
 
 Recommended extensions (especially when working with Unity):
 * [Unity for VS Code](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc)
