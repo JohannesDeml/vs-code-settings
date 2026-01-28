@@ -26,6 +26,7 @@
         "*.unity": "yaml",
         "*.playable": "yaml",
         "*.controller": "yaml",
+        "*.shadervariants": "yaml",
         "*.jsont": "json",
         "*.uxml": "xml",
         "*.uss": "css",
