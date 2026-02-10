@@ -27,6 +27,8 @@
         "*.playable": "yaml",
         "*.controller": "yaml",
         "*.shadervariants": "yaml",
+        "*.spriteatlas": "yaml",
+        "*.spriteatlasv2": "yaml",
         "*.jsont": "json",
         "*.uxml": "xml",
         "*.uss": "css",
