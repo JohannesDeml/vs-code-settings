@@ -418,11 +418,12 @@
         }
     },
     "diffEditor.renderSideBySide": false,
-    "diffEditor.hideUnchangedRegions.enabled": true,
     "workbench.editorAssociations": {
         "*.wat": "default"
     },
     "github.copilot.editor.enableAutoCompletions": true,
     "search.followSymlinks": false,
-    "workbench.colorTheme": "Default Dark Modern"
+    "workbench.colorTheme": "Dark Modern",
+    "claudeCode.preferredLocation": "panel",
+    "claudeCode.initialPermissionMode": "acceptEdits"
 }
