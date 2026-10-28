@@ -20,16 +20,15 @@ Settings path:
 * Windows: `%APPDATA%\Code\User`
 * MacOS: `~/Library/Application Support/Code/User`
 
-## Principles
+## Shortcuts
 
-Make the shortcuts more browser like and the good old shift shift from intellij.
+More intelij like with the shift + shift shortcut, cmd+p gets the command shortcut
 
 | Command          | Description          |
 | ---------------- | -------------------- |
-| Ctrl + T         | open file in tab     |
-| Ctrl + W         | close current tab    |
-| Ctrl + Shift + W | close all other tabs |
 | Shift + Shift    | open file in tab     |
+| Ctrl + Shift + W | close all other tabs |
+| Cmd + P          | Show commands        |
 
 Hosted on
 [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codeberg.svg" alt="drawing" width="16"/> Codeberg](https://codeberg.org/jd/vs-code-settings) and [<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg" alt="drawing" width="16"/> GitHub](https://github.com/JohannesDeml/vs-code-settings)
