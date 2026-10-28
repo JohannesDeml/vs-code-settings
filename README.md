@@ -3,11 +3,18 @@
 My custom settings, this is mostly tailored for people who work with Unity and are used to the good old `shift shift` shortcut from Intellij.
 The settings include proper file association and yaml unity mappings (when using the YAML extension linked below).
 
-Recommended extensions (especially when working with Unity):
-* [Unity for VS Code](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc)
-* [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-* [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) & [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) (Paid)
-* [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+Recommended extensions:
+
+* For Unity
+
+  * [Unity for VS Code](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc)
+  * YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+  * C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+
+* For Ai Workflows
+
+  * [Claude Code for VS Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
+  * [DevContainer](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 Settings path:
 * Windows: `%APPDATA%\Code\User`
