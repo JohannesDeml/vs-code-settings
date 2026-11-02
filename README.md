@@ -6,15 +6,16 @@ The settings include proper file association and yaml unity mappings (when using
 Recommended extensions:
 
 * For Unity
-
   * [Unity for VS Code](https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc)
-  * YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-  * C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+  * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+  * [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 
 * For Ai Workflows
-
   * [Claude Code for VS Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
   * [DevContainer](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+* General
+  * [Git Tree Compare](https://marketplace.visualstudio.com/items?itemName=letmaik.git-tree-compare)
 
 Settings path:
 * Windows: `%APPDATA%\Code\User`

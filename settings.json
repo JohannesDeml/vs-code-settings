@@ -439,5 +439,9 @@
     },
     "extensions.ignoreRecommendations": true,
     "git.openRepositoryInParentFolders": "never",
-    "workbench.secondarySideBar.defaultVisibility": "hidden"
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "gitTreeCompare.collapsed": true,
+    "gitTreeCompare.iconsMinimal": true,
+    "gitTreeCompare.iconStyle": "fileTheme",
+    "gitTreeCompare.showDiffStats": true
 }
